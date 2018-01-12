@@ -1,0 +1,7 @@
+{
+  "require": {
+    "sendgrid/sendgrid": "~6.0",
+    "vlucas/phpdotenv": "~2.0"
+  }
+}
+
